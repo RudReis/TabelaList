@@ -1,0 +1,201 @@
+.esqueceuSuaSenha,
+.noPossuiConta {
+  position: absolute;
+  text-decoration: underline;
+}
+.esqueceuSuaSenha {
+  top: 0;
+  left: 44px;
+  cursor: pointer;
+}
+.noPossuiConta {
+  top: 33px;
+  left: 0;
+}
+.footer {
+  position: absolute;
+  top: 766px;
+  left: 605px;
+  width: 231px;
+  height: 50px;
+  color: var(--dray-400);
+}
+.endereoDeEmail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.envelopesimpleIcon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.jonhdoeexamplecom {
+  position: relative;
+}
+.input {
+  position: absolute;
+  top: 31px;
+  left: calc(50% - 200px);
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-800);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid var(--cyan-300);
+  box-sizing: border-box;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  gap: var(--gap-xs);
+  font-size: var(--font-size-sm);
+  color: var(--dray-400);
+}
+.email {
+  top: 0;
+  width: 400px;
+  height: 79px;
+}
+.email,
+.passoword,
+.suaSenha {
+  position: absolute;
+  left: 0;
+}
+.passoword {
+  top: 31px;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-800);
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+}
+.suaSenha {
+  top: 0;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--gray-100);
+}
+.passowordParent {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  width: 400px;
+  height: 79px;
+  font-size: var(--font-size-sm);
+  color: var(--dray-400);
+}
+.entrarNaPlataforma {
+  position: relative;
+  font-weight: 600;
+}
+.entrarNaPlataformaWrapper {
+  position: absolute;
+  top: 246px;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--cryan-500);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  color: var(--black);
+}
+.checkIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.checkWrapper {
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-800);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+}
+.react21 {
+  position: relative;
+  width: 2194px;
+  height: 2500px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: var(--font-size-sm);
+  color: var(--gray-200);
+}
+.form {
+  position: absolute;
+  top: 445px;
+  left: 520px;
+  width: 400px;
+  height: 289px;
+  font-size: var(--font-size-base);
+}
+.faaLoginE,
+.igniteLab {
+  position: absolute;
+  top: 0;
+  left: 42px;
+}
+.faaLoginE {
+  top: 39px;
+  left: 0;
+  font-size: 18px;
+  color: var(--dray-400);
+}
+.iglab,
+.react21Icon {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 237px;
+  height: 61px;
+}
+.react21Icon {
+  top: 0;
+  left: 65px;
+  width: 105.1px;
+  height: 120px;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  top: 208px;
+  left: 602px;
+  width: 237px;
+  height: 197px;
+  font-size: 32px;
+}
+.main {
+  position: relative;
+  background-color: var(--gray-900);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--gray-100);
+  font-family: var(--font-inter);
+}
